@@ -1,0 +1,82 @@
+#titulo {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.95);
+    color: white;
+    font-size: 50px;
+}
+
+html {
+    background-image: url(https://img.freepik.com/vector-premium/elegante-diseno-fondo-mosaico-moda_608527-786.jpg) ;
+}
+
+.precio{
+    text-align: right;
+}
+
+.tabladeproductos {
+    background-color: rgba(42, 17, 17, 0.859);
+}
+
+footer{
+    background-color: black;
+    opacity: 0.8;
+    font-size: 1px;
+}
+
+.opcion {
+    margin-left: 15px;
+    width: 33.3%;
+}
+
+.textofooter {
+    font-size: 22px;
+}
+
+.tituloproducto {
+    font-size: 20px;
+    text-align: center;
+    border-top: none;
+    font-weight: bold;
+    padding-bottom: 1px;
+    text-decoration: underline;
+}
+
+a:hover { /*PARA LA PARTE DE MAS INFORMACIÓN*/
+    color:rgba(66, 66, 239, 0.918);
+}
+
+.center{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+.tablaprincipal {
+    border: solid black 2px;
+    width: 100%;
+}
+
+.columna {
+    width: 33.3%;
+    text-align: center;
+}
+
+td {
+    border-top: solid black 2px;
+    border-right: solid black 2px;
+    border-left: solid black 2px;
+}
+
+.infoprod {
+    margin-top: 0px;
+    font-size: 20px;
+}
+
+.laptop {
+    list-style-type: none;
+}
+
+* {
+    color:rgb(255, 255, 255);
+    font-size: 20;
+}
